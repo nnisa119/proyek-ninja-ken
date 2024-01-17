@@ -81,12 +81,12 @@ main {
     font-size: 95px;
     font-weight: bolder;
     letter-spacing: 5px;
-    padding-top: 60px;
+    padding: 150px 0 0 20px;
 }
 
 .banner span {
     font-family: monospace;
-    font-size: 140px;
+    font-size: 60px;
     color: rgb(235, 235, 85);
 }
 
@@ -255,7 +255,7 @@ footer {
     }
 
     .banner {
-        padding: 65px 10px 0 35px;
+        padding: 10px 10px 0 35px;
     }
     .banner h1 {
         font-size: 70px;
